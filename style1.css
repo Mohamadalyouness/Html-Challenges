@@ -1,0 +1,41 @@
+nav {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+  }
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  nav li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  nav a {
+    color: #fff;
+    text-decoration: none;
+  }
+  nav a:hover {
+    color: #000;
+  }
+  .page-title { 
+    text-align: center;
+
+  }
+
+ .new {
+    margin: 0px 40px;
+  }
+footer {
+    background-color: #220d0d;
+    color: #fff;
+    padding: 10px;
+}
+
+.para {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    
+}
